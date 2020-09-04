@@ -1,6 +1,12 @@
+---
+layout: post
+title: FM - Against Everton
+excerpt: <i>About a match against the Ev with my tactical tinkering approach</i>
+---
+
 # FM - 2019/20 Season Till Now
 
-Before jumping into my first recap - Everton (A), this is how our season has gone so far.
+Before jumping into my recap - Everton (A), this is how our season had gone so far.
 
 ### August:
 
