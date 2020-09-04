@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://dtrik.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dtrik.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-09-04T13:37:11-05:00</updated><id>https://dtrik.github.io/blog/feed.xml</id><title type="html">Intrepid Internet Itinerant</title><subtitle>A page that follows my wandering mind</subtitle><entry><title type="html">Conda Quicknotes</title><link href="https://dtrik.github.io/blog/2019/10/28/conda-instructions.html" rel="alternate" type="text/html" title="Conda Quicknotes" /><published>2019-10-28T00:00:00-05:00</published><updated>2019-10-28T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2019/10/28/conda-instructions</id><content type="html" xml:base="https://dtrik.github.io/blog/2019/10/28/conda-instructions.html">&lt;p&gt;This is a short post with a few Conda commands and notes. I am adding my most frequently using commands. Use carefully, YMMV. I am sourcing 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://dtrik.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dtrik.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-09-04T13:48:07-05:00</updated><id>https://dtrik.github.io/blog/feed.xml</id><title type="html">Intrepid Internet Itinerant</title><subtitle>A page that follows my wandering mind</subtitle><entry><title type="html">Fm Nov Update</title><link href="https://dtrik.github.io/blog/2020/06/10/fm-nov-update.html" rel="alternate" type="text/html" title="Fm Nov Update" /><published>2020-06-10T00:00:00-05:00</published><updated>2020-06-10T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2020/06/10/fm-nov-update</id><content type="html" xml:base="https://dtrik.github.io/blog/2020/06/10/fm-nov-update.html">&lt;h1 id=&quot;fm---201920-season-till-now&quot;&gt;FM - 2019/20 Season Till Now&lt;/h1&gt;
+
+&lt;p&gt;Before jumping into my first recap - Everton (A), this is how our season has gone so far.&lt;/p&gt;
+
+&lt;h3 id=&quot;august&quot;&gt;August:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I started my experiment from the Chelsea game onwards&lt;/p&gt;
+
+&lt;h3 id=&quot;september&quot;&gt;September:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I rage-quit in the Atletico (A) game so that is a blackmark.&lt;/p&gt;
+
+&lt;h3 id=&quot;october&quot;&gt;October:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lille were really lucky in their home game to escape with a point.&lt;/p&gt;
+
+&lt;h3 id=&quot;november&quot;&gt;November:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We drew to Chelsea after Robertson inexplicably decided to just stand still and let Tammy Abraham take the ball from the halfway line and stand still. The City home loss was hard. We created sufficient shots but no really good chances. Matip made a massive blunder under little pressure and we conceded from that. It was a fairly even match though Cancelo was very threatening. The Atletico home match was enjoyable because Deigo Costa went mad almost immediately after equalising for them and got himself sent off for a two-footed lunge on Van Dijk. They were hanging on to the draw but I somehow managed to win.&lt;/p&gt;
+
+&lt;p&gt;As things stand, we are top of our CL group and 2nd in the league (4 points behind City). The loss to City at home might prove costly. Hopefully we will be getting a favourable draw in CL knockouts. LOSC play Atletico next and I am hoping LOSC win so that I can avoid Atletico forever. I doubt it would happen though. Ugh.&lt;/p&gt;
+
+&lt;h2 id=&quot;everton-vs-liverpool&quot;&gt;Everton vs Liverpool&lt;/h2&gt;
+&lt;p&gt;Our team comes into this match after the 2 bruising encounters against City and Atletico Madrid respectively. This is a must win game, both for keeping City’s lead down to 4 points as well as the importance of my first derby. Most of the first team is fatigued and I have to make do with the rotated squad.&lt;/p&gt;
+
+&lt;h3 id=&quot;pre-match-opposition-report&quot;&gt;Pre-Match Opposition Report&lt;/h3&gt;
+&lt;p&gt;My scouts indicate that the following is their likely lineup and formation:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As this is Everton, they have a lot of weaknesses (&lt;em&gt;lol&lt;/em&gt;), and one of the notable weaknesses mentioned in the scouting report is their vulnerability to crosses. Though their central defenders are good, it makes sense because of the aggressive nature of both flanks. WB–IF is a very aggressive combo and in addition they have Sigurdsson who is also an attacking player.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-approach&quot;&gt;My Approach&lt;/h3&gt;
+&lt;p&gt;I decided to put two players in the DM strata, an Anchor to handle their AM or IFs while I attack that flank and another DM as an aggressive playmaker - Regista. I placed another playmaker between their defence and midfield – AP(S). I used a FB(S)-W(A) combo on my right wing to target their weaker left wing and went for a FB(S)-IW(S) combo on the left wing.
+I started like this but immediately swapped Keita and Chirivella as the former is a more natural DM. Origi played as a PF(A).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;post-match&quot;&gt;Post Match&lt;/h3&gt;
+&lt;p&gt;So what was the result?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pretty good! :) 
+And this is with my rotated squad so I am really happy about this.&lt;/p&gt;
+
+&lt;p&gt;We really dominated them!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Keita had a great game and really imposed himself on the game. He had 6 key passes out of which one got converted and 2 dribbles. He came away the player of the match. Chirivella also had a good game and his assist kickstarted the game. Both Matip and Origi got on the scoresheet from cross assists, one a freekick (Chirivella) and another from Wijnaldum, the AP(S).  AOC, my W(A) had 10 dribbles! So at least a few elements of what I wanted came through in this match. Final ratings:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mission accomplished, City’s lead kept manageable and Everton kept quiet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_till_nov2019/image10.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">FM - 2019/20 Season Till Now</summary></entry><entry><title type="html">Fm Intro</title><link href="https://dtrik.github.io/blog/2020/06/09/fm-intro.html" rel="alternate" type="text/html" title="Fm Intro" /><published>2020-06-09T00:00:00-05:00</published><updated>2020-06-09T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2020/06/09/fm-intro</id><content type="html" xml:base="https://dtrik.github.io/blog/2020/06/09/fm-intro.html">&lt;h1 id=&quot;a-different-approach-to-fm&quot;&gt;A Different Approach to FM&lt;/h1&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I bought the latest edition of Football Manager when it came on sale recently. I had already put in a lot of hours without getting properly into the game, mainly because of several match engine quirks which were disrupting my enjoyment. That is when I stumbled upon this &lt;a href=&quot;https://community.sigames.com/topic/486970-tactics-gymnastics-lyon/&quot;&gt;thread&lt;/a&gt; in the SI Forums about using formations and roles to counter teams instead of setting a fixed formation as I have been doing till now. It sounded interesting so I gave it go with my Liverpool save (I almost always play as Liverpool).&lt;/p&gt;
+
+&lt;p&gt;I am trying to document my thought process on how I approached games and the results. It is for both slowing down my play as well as to learn to play. I generally end up zooming through a season and find myself not enjoying or getting angry at results. Hopefully, this will slow down as dumping words onto the internet is going to be time consuming. (Fair warning, I did rage quit twice against a team (ATM) and asked my assistant manager to handle that game instead. I won’t be discussing that game and will mark it as a failure in my self-appraisal.)&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;The Liverpool squad in FM20 is really good though a bit short on depth at the back. Despite this, I sold Lovren to China. I also sent Lallana on loan to Milan as we have sufficient numbers up front and it is his last year of contract. (Also I am not a big fan of either).&lt;/p&gt;
+
+&lt;p&gt;Instead I got in Kristoffer Ajer (CB) and Birger Meling (DL) as backups. I expect both will play sufficient minutes as we are involved in multiple competitions. My best XI after the sales and the transfers in is still the same Liverpool XI that has generally lined up this season IRL - Salah, Mane, Firmino, Wijnaldum, Hendo, Fabinho, TAA, Gomez, Van Dijk and Robbo.&lt;/p&gt;
+
+&lt;h2 id=&quot;tactical-framework&quot;&gt;Tactical Framework&lt;/h2&gt;
+&lt;p&gt;As second favourites for the title, I want to impose a style of play while keeping formations and roles fluid to counter the opposition. The aim is to put my playmakers in space and let the roles and formations handle the rest.&lt;/p&gt;
+
+&lt;p&gt;I want my team to play fast flowing football. The players should make good movement off the ball to receive in space and play at a higher tempo. I used the higher defensive line and engagement to mimic the higher press. I am not particularly good at FM or tactics so this is just my attempt. It seems to be working till now though that could be either a fluke or just the high quality players at my disposal making it work.&lt;/p&gt;
+
+&lt;p&gt;My team instructions are set to the following, and I have made minimal changes to it till now:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fm_intro/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I started this experiment after the first PL match of the season and I am currently in November of the same season. I am not planning to recap every single match, I will mostly do one or two every game-month. For the games I review, I will try to include a pre and post-match report. The first will indicate why I tried what I did and the second will indicate what happened and how much is likely to be influenced by my tactics.
+Edit: I ended up doing exactly one after this. :cries&lt;/p&gt;</content><author><name></name></author><summary type="html">A Different Approach to FM</summary></entry><entry><title type="html">Conda Quicknotes</title><link href="https://dtrik.github.io/blog/2019/10/28/conda-instructions.html" rel="alternate" type="text/html" title="Conda Quicknotes" /><published>2019-10-28T00:00:00-05:00</published><updated>2019-10-28T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2019/10/28/conda-instructions</id><content type="html" xml:base="https://dtrik.github.io/blog/2019/10/28/conda-instructions.html">&lt;p&gt;This is a short post with a few Conda commands and notes. I am adding my most frequently using commands. Use carefully, YMMV. I am sourcing 
 these from the Conda Docs&lt;a href=&quot;#references&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;. It is mainly intended as a quick reference for myself.&lt;/p&gt;
 
 &lt;h2 id=&quot;basics-and-introduction&quot;&gt;Basics and Introduction:&lt;/h2&gt;
@@ -385,73 +473,4 @@ Kaggle.&lt;/p&gt;
 &lt;p&gt;In my next post tomorrow, I will write a short post about a trek we did at Handi Gundi Betta today (July 6th, 2019) as well as a funny 
 incident that happened.&lt;/p&gt;
 
-&lt;p&gt;‘Til Later&lt;/p&gt;</content><author><name></name></author><summary type="html">About A Summer of Data</summary></entry><entry><title type="html">Writing is Hard</title><link href="https://dtrik.github.io/blog/2019/07/05/motivation.html" rel="alternate" type="text/html" title="Writing is Hard" /><published>2019-07-05T00:00:00-05:00</published><updated>2019-07-05T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2019/07/05/motivation</id><content type="html" xml:base="https://dtrik.github.io/blog/2019/07/05/motivation.html">&lt;p&gt;In the beginning was the Word, and the Word was with God but then he got stuck because he got writer’s block. At least that is what
-happens to me. The Abrahamic God managed to create the perfect world in 6 days and then he rested. But I ended up doing very little
-chasing perfection. Well I did rest a lot.&lt;/p&gt;
-
-&lt;p&gt;Providence or not, there has been a spate of posts and &lt;a href=&quot;https://twitter.com/patio11/status/1146665360537657345&quot;&gt;tweets&lt;/a&gt; recently about putting out a body of work after editing it well and just keep 
-on doing it till you are good. I am inspired. Especially by this &lt;a href=&quot;http://matthewrocklin.com/blog/work/2019/06/25/write-short-blogposts&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;So this is my plan for the short term at least. I am planning to write something that I can finish publishing in 1 pomodoro or less. At the end
-of it, I will include some detail about what my next post will be about and when it is going to be published (on the order of days, not hours).&lt;/p&gt;
-
-&lt;p&gt;This is an intro-type post and I will have a post tomorrow about the Summer of Data Science and what my plan is to be.&lt;/p&gt;
-
-&lt;p&gt;‘Til Later&lt;/p&gt;</content><author><name></name></author><summary type="html">About writing more</summary></entry><entry><title type="html">Vaishno Devi</title><link href="https://dtrik.github.io/blog/2019/04/11/jor-se-bolo.html" rel="alternate" type="text/html" title="Vaishno Devi" /><published>2019-04-11T00:00:00-05:00</published><updated>2019-04-11T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2019/04/11/jor-se-bolo</id><content type="html" xml:base="https://dtrik.github.io/blog/2019/04/11/jor-se-bolo.html">&lt;p&gt;We (read: Yours Truly, The Wife, The Sister, The Parents and The Wife’s Brother) went on a pilgrimage this month. 
-As the title suggests, it was to Vaishno Devi.&lt;/p&gt;
-
-&lt;p&gt;For the uninitiated, Vaishno Devi is a temple in Jammu.  It is an important temple for North Indians. It is the first place visited by a newly-wed couple, even before their honeymoon. It features three natural stone statues within a cave depicting three Devis (goddesses). People had to crawl through the cave to reach the statues. But that way has been closed and devotees use artificial tunnels now.&lt;/p&gt;
-
-&lt;p&gt;The journey to the temple starts at the basecamp town of Katra which is around 40km from Jammu proper.  The temple is ~12-13km hike uphill from Katra.  Earlier, everyone had to go to Jammu (rail/road/air) and take transportation to Katra from there. The rail network was recently extended and now there are trains to Katra.&lt;/p&gt;
-
-&lt;p&gt;The paved roads were already very good at least 20 years back (first time we went) and it has only improved since then. There are restrooms and refreshments sprinkled throughout the route.  A highlight are the water fountains with ice cold spring water. A majority of restrooms are in very good condition now (they were very bad earlier).&lt;/p&gt;
-
-&lt;p&gt;The hike can be rather strenuous if you are not used to intense activity. There are several sections which have steep inclines. If you want “Darshan” but are unable/unwilling to navigate the climb, you have several options. There are ponies and palanquins from the startpoint itself. There are electric cars from the midway point as well. These alternates increase the difficulty of the journey for the hiking demographic.&lt;/p&gt;
-
-&lt;p&gt;Planning started early as The Parents are prone to do. The temple is crowded most of the time with queues of 4-5 hours at the top considered normal. We chose the time right before Chaitra Navaratri as it is less crowded. The Plan extended to include Jwalamukhi as well as three associated temples.&lt;/p&gt;
-
-&lt;p&gt;The Parents and The Sister started their journey from Madurai and the rest of us from Bangalore. The three of us reached Delhi on Saturday, 30th March and slept over at the wife’s aunt’s place. On Sunday morning after a delicious breakfast, we visited the famous Akshardham temple. I have been there before but it was the first time for the wife and her brother. It was an enjoyable visit despite the intense heat.  (Delhi got over its winter a week before we reached. There were blankets visible in most of the houses we went to!)&lt;/p&gt;
-
-&lt;p&gt;The rest came via Chennai and reached on Sunday afternoon. We met up at my friend’s place and dumped half our luggage there as half of our trip was to be in Delhi. Then we went to the railway station (code: NDLS) and boarded the Shri Shakti Express (code: 22461) to Katra (code: SVDK). I had a mild headache so I parked myself in the top berth and slept till after dinner. The rest reportedly had an enjoyable dinner of chholey kulcha (the traitors). I sated my hunger with curd.&lt;/p&gt;
-
-&lt;p&gt;We reached very early and then went on to the IRCTC guesthouse in the station itself. We had booked a room for freshening up and lockers for keeping the rest of our luggage. It was very good and neat. The breakfast was also very good.&lt;/p&gt;
-
-&lt;p&gt;After breakfast, wearing matching clothes we started our hike from Katra at around 8:30 AM. We carried only our coats as once you start climbing each gram starts weighing like a kilo.  (Ounce and pound for the people without standards). There is the option of porter for carrying your luggage too. The guesthouse has a pickup and drop facility to the startpoint of the hike (called Banganga). We utilized it and went to the checkpoint where we have to collect a token. This token marks your position in the queue once you are at the top. Alternatively military personnel get passes which provides entry to a separate queue. That queue joins the general queue a bit further ahead. Through some contacts we snagged one such and collected ours.&lt;/p&gt;
-
-&lt;p&gt;Equipped with walking sticks and lots of enthusiasm we started walking.  We pumped ourselves with various liquids whenever there were omens of tiredness. Our primary fuel was the superb sugarcane juice. Sugarcane juice felt tastier as compared to the ones we get in Bangalore. It might have been expectations and preconceptions though (mountains and freshness yadda yadda).&lt;/p&gt;
-
-&lt;p&gt;The hike was still exhausting. A caution to the unfit first-timers, the stairs look very tempting, do not attempt those. It is very very difficult. Instead, walk at an easy pace and rest when tired.&lt;/p&gt;
-
-&lt;p&gt;Katra to Adhkuwari (the midway point) was the difficult stretch. We learned later that a new (a bit longer) route has been opened with a more forgiving incline. Adhkuwari, has another cave temple.  It doesn’t have any artificial cave as at the top. As a result it is very difficult as at many points you have to crawl, and at the end someone has to drag you up the cave.  People go through in batches of 150 or so.&lt;/p&gt;
-
-&lt;p&gt;We have not been fortunate to go through this cave in all the times we have been to Vaishno Devi. This place has another token system like at the top. We didn’t take a token while climbing up as we were unsure if our turn be over by the time we return. We had booked a dormitory for the return stretch, planning to stay overnight and wait for our turn.&lt;/p&gt;
-
-&lt;p&gt;We now started on the home stretch. There is a new-ish route from Adhkuwari to the Bhavan (the main temple), which makes this very easy. Barring occasional steep sections, it is a very gentle slope. We covered that part (again around 6km) quickly and were at the Bhavan around 12:30 PM or so. From our experience, it is better to start as early as possible as it can get very warm while climbing. I would recommend to start latest by 7 AM and the hike would be easier.&lt;/p&gt;
-
-&lt;p&gt;At the Bhavan, we kept all our stuff in a locker. Mobile phones/belts/bags etc, the usual stuff are not allowed in the temple. We went and finished the Darshan very quickly due to the low crowd. The military pass further reduced the time. The Darshan went very well. As (honorary for her ;)) Delhiites, it was another milestone. We were all happy and tired.&lt;/p&gt;
-
-&lt;p&gt;By this time we were very hungry, except my sister who was feeling very faint and refused to have food. We force-fed her some sugar water, colloquially known as Coca Cola, while we had our lunch at a Sagar Ratna hotel. The food was superb, especially due to how hungry we were. After a yummy meal of Rajma Chawal, we started the next phase - Bhairav Temple.&lt;/p&gt;
-
-&lt;p&gt;Bhairav is the demon slayed by Vaishno Devi. There is a temple dedicated to the demon in the place where his head fell. A hero conquering an enemy and then the enemy becoming a protective deity is interesting. There was something similar in the Taktsang monastery in Paro. (We visited Bhutan for our honeymoon!)&lt;/p&gt;
-
-&lt;p&gt;This temple is around 3km uphill from the Bhavan. The route to Bhairav is tough and it takes almost 2 hours to cover this distance. But recently a ropeway was opened. At Rs 100 per person, we could cover the 3 hour up-down journey in an hour. The ropeway time is around a minute, the rest is waiting in the queue.&lt;/p&gt;
-
-&lt;p&gt;We were back at the Bhavan by 4 PM or so. After collecting our stuff from the locker, started the downhill hike to Adhkuwari.&lt;/p&gt;
-
-&lt;p&gt;The downhill hike presents a completely different challenge. You have to keep a control on the speed you are walking, lest you slip/fall. That leads to further strain on the knees and legs. We were all aching in different parts of the body by then. My mom was walking with a sling as her hand had started swelling and aching from no discernible cause.&lt;/p&gt;
-
-&lt;p&gt;We reached Adhkuwari around 6 PM and took a token for the Adhkuwari temple. Then we checked in to our dormitories. The facilities are very simple but neat and clean. On enquiry, the current group waiting for entry had coupon number 330 while ours was 551. Things looked very pessimistic. We gathered blankets for everyone and settled down for the night. (Security deposit of Rs 500 per blanket.)&lt;/p&gt;
-
-&lt;p&gt;My wife and I went out to get food for everyone. We shared some aaloo/paneer parantha. I got chowmein and fried rice for my sister and her brother respectively (both are addicts to those!). My dad was feeling feverish so he didn’t want anything. My mom shared the chowmein. Tired and sleepy, we settled down for the night.&lt;/p&gt;
-
-&lt;p&gt;Waking up, we saw to our disappointment that the ongoing group number was still around 400. There was a teensy little relief as well. (Crawling through a cave is exciting before a 20km trek, intimidating after!)&lt;/p&gt;
-
-&lt;p&gt;It would take most of the day for our group’s turn so we abandoned that plan and started the downhill trek to Katra. We navigated most of the downhill trek through the stairs. We reached the bottom a refueling stop and a pretty twisty wirey hanging stop later.&lt;/p&gt;
-
-&lt;p&gt;We made our way to the local general hospital as my mom’s hand was now aching a lot. An X-ray and consultation later (it was diagnosed not serious), we made our way back to the IRCTC guesthouse.&lt;/p&gt;
-
-&lt;p&gt;There was a mixup as our reservation expired half an hour before we reached. We didn’t realise and were on our way to the dormitory beds we thought were in our name. They were rude to us though, as if we were cheats. It felt bad, as it could have been resolved without all the drama. That was a black mark on the otherwise excellent guesthouse. We rebooked a few beds and then rested till our next train.&lt;/p&gt;
-
-&lt;p&gt;The next phase of our journey started at 2:35 PM on the Jammu Mail (code: 14034) to Pathankot Cantonment (code: PTKC). Pathankot Cantonment as that was the station enroute to Jwalamukhi, our next destination. We had booked a taxi from Pathankot that would take us there as well as 3 associated temples. That is a different blogpost though.&lt;/p&gt;
-
-&lt;p&gt;‘Til Later&lt;/p&gt;</content><author><name></name></author><summary type="html">About onions or the lack of it thereof and twitching legs</summary></entry></feed>
+&lt;p&gt;‘Til Later&lt;/p&gt;</content><author><name></name></author><summary type="html">About A Summer of Data</summary></entry></feed>
