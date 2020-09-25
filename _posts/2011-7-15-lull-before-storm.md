@@ -17,7 +17,7 @@ prevents me from revealing how boring it was, but you can guess.
 A positive thing about arriving early was that we got pay for 11 days. The company had opened an ICICI account for me and the 
 stuff duly arrived at that account on the 30th of June- my first Pay Day. At this juncture, I remember a Calvin and Hobbes strip.
 
-![money money](/images/lull.png)
+![money money](/blog/images/lull.png)
 
 The Sister was gifted her first gift, the first piece of music that I ever bought and it had to be Taylor Swift, but such is life
 and the happiness of The Sister more than compensated for the shame I felt on betraying the greats and buying Taylor Swift. I also
