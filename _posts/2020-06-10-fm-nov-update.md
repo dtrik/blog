@@ -10,7 +10,7 @@ Before jumping into my recap - Everton (A), this is how our season had gone so f
 
 ### August:
 
-![](images/fm_till_nov2019/image1.png)
+![](/images/fm_till_nov2019/image1.png)
 
 I started my experiment from the Chelsea game onwards
 
