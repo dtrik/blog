@@ -2,6 +2,7 @@
 layout: post
 title: A Different Approach to Football Manager
 excerpt: <i>About the thing that matters most</i>
+hide: true
 ---
 
 ## Introduction
