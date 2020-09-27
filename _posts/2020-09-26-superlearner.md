@@ -2,7 +2,6 @@
 layout: post
 title: Book Summary: The Only Skill that Matters
 excerpt: <i>About the thing that matters most</i>
-hide: true
 ---
 
 ## Introduction
