@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Summary: The Only Skill that Matters
+title: "Book Summary: The Only Skill that Matters"
 excerpt: <i>About the thing that matters most</i>
 ---
 
@@ -26,7 +26,7 @@ External motivation is not effective after a point. Instead, as adults we have t
 4. Plan ahead to structure the sequence of learning
 Instead of just pushing ahead without a plan, first structure what and how we are learning. 
 
-### Learning Plan
+#### Learning Plan
 While planning ahead focus on the following:
 1. Why are we learning?
 - include why we are learning into the plan
@@ -72,14 +72,14 @@ Barring neurological disorders, anyone can memorise if it is done in the right m
 
 This is a positive because it means a majority of us can learn to memorise. This is in fact the subject of the book Moonwalking with Einstein. In it, a memory sceptic learns the so-called tricks of the trade. He becomes a memory expert (6th in an international competition) within a year.
 
-### Evolution 
+#### Evolution 
 Our brains are really good at remembering smells, tastes and sights. These were crucial in determining whether our species survived to the next day or not. Avoiding poisonous food, predators and recognizing the social group were all crucial for survival. These instincts persist. Smells can trigger extremely detailed memories. We also remember locations to an almost absurd level of detail. 
 
 As an aside, while reading the book, I tried recalling different rooms I have been in. I was quite shocked to realise that I remember some houses and their layouts that I have been to once 15 years back. 
 
 We can leveraging these evolutionary instincts to learn new things and remember them.
 
-### Visual Memory
+#### Visual Memory
 The trick to remembering is to master the visual memory. Use highly detailed visualisations - each detail can be used to represent something new. The images should be bizarre, absurd, violent or sexual. Our hippocampi (the part of the brain that acts as a memory filter and cleaner) loves the abnormal. Involve as many senses to that memory as possible - taste, smell, touch. The more vivid the visualisation, the stronger the connection. 
 
 This visualisation requires regular practice but it is something most people can do. 
@@ -108,7 +108,7 @@ After reading, recall to improve details of visualization and mnemonics. Dependi
 Finally during review, analyze the content from multiple perspectives. Connect it to previous 
 knowledge. 
 
-### Speed reading
+#### Speed reading
 The following are the primary ways to improve the reading speed significantly:
 1. Reduce subvocalisation - Completely removing subvocalisation is impossible. So attempt to reduce it such that we are subvocalising the most important words in a line. It is still very hard to do. 
 2. When we read, our eyes jump around and each jump results in a period of blindness. This is imperceptible and referred to as a saccade. These saccades affect our reading speed. So, to increase our reading speed, reduce the number of times spent in saccadic blindness. This can be done by training to reduce the number of fixations. The Schultz table is used for this.
@@ -121,7 +121,7 @@ Testing is an extremely important process in learning. It helps in differentiati
 
 One way to test yourself is to use the material learnt from day one. Do not wait for an arbitrary threshold of learning. Instead, use it and then test if our usage was correct. Feedback loops are important. As an example, while learning a new language, practice speaking from day 1. Another way of testing our learning is to write blogs. A quality blogpost requires understanding.
 
-### Teaching 
+#### Teaching 
 Teaching is one of the most effective ways of testing ourselves. It forces us to check our understanding due to the psychological effect. It also requires us to move up the Bloom's taxonomy to teach well. It can result in identifying knowledge gaps as well as new insights from the other person. Only if you can explain something simply have you learnt something well. 
 
 ## Cross-pollination
