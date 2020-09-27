@@ -9,7 +9,7 @@ hide: true
 This is a summary of the book The Only Skill that Matters by Jonathan A. Levi.
 
 ## Thesis
-In today's fast paced world - learning new things quickly is the most important skill. The book doesn't delve deep into proving this but accepting it, it explains how somebody - especially an adult - can learn new things fast. 
+In today's fast paced world - learning new things quickly is the most important skill. The book doesn't delve deep into proving this but accepting it, it explains how somebody - especially an adult - can learn new things fast. [^1]
 
 ## Learning 
 The book refers to the research of Malcolm Knowles on how adults learn. Children usually learn on demand. The whys and hows are not considered that important. But once we become adults, knowing why we learn becomes important. In adults, learning happens best through active practice and participation. We have to convince the brain that the knowledge is immediately useful.
@@ -136,7 +136,7 @@ All the above are completely wasteful if our brain is not maintained properly. T
 2. Right food: the brain consumes about 20% of our daily enery despite weighing only 0.2%. Keeping it chugging is thus a taxing activting. High quality fats provide best nutrition for the brain. Consuming lots of sugars can have a detrimental effect
 3. Exercise: there is a lot of research that exercise improves the neurochemistry.
 
-## TL;DR
+## TL;DR [^1]
 Learning new things fast is the most important skill. Utilise the evolutionary traits to remember long-term. Convince or trick our brains that learning something new is immediately important. Plan ahead before learning. Memory is important and trainable. Read effectively (SQ3R). Learn in as many ways as possible. Test your learning, teaching is the most effective way to test it. Your brain needs sleep, right food and exercise for optimal functioning. 
 
 ## Book Review
