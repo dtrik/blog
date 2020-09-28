@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://dtrik.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dtrik.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-09-28T03:40:15-05:00</updated><id>https://dtrik.github.io/blog/feed.xml</id><title type="html">Intrepid Internet Itinerant</title><subtitle>A page that follows my wandering mind</subtitle><entry><title type="html">Book Summary: The Only Skill that Matters</title><link href="https://dtrik.github.io/blog/2020/09/26/superlearner.html" rel="alternate" type="text/html" title="Book Summary: The Only Skill that Matters" /><published>2020-09-26T00:00:00-05:00</published><updated>2020-09-26T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2020/09/26/superlearner</id><content type="html" xml:base="https://dtrik.github.io/blog/2020/09/26/superlearner.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://dtrik.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dtrik.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-09-28T09:48:00-05:00</updated><id>https://dtrik.github.io/blog/feed.xml</id><title type="html">Intrepid Internet Itinerant</title><subtitle>A page that follows my wandering mind</subtitle><entry><title type="html">Book Summary: The Only Skill that Matters</title><link href="https://dtrik.github.io/blog/2020/09/26/superlearner.html" rel="alternate" type="text/html" title="Book Summary: The Only Skill that Matters" /><published>2020-09-26T00:00:00-05:00</published><updated>2020-09-26T00:00:00-05:00</updated><id>https://dtrik.github.io/blog/2020/09/26/superlearner</id><content type="html" xml:base="https://dtrik.github.io/blog/2020/09/26/superlearner.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is a summary of the book The Only Skill that Matters by Jonathan A. Levi.&lt;/p&gt;
 
 &lt;h2 id=&quot;thesis&quot;&gt;Thesis&lt;/h2&gt;
@@ -9,23 +9,28 @@
 
 &lt;p&gt;Knowles suggests the following:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Start with a problem and work towards a solution
-The usual way is starting from the basics (eg. “Hello World” in programming). We eventually reach a point where we can use it for a complicated task. Instead, go the other way round. Try to solve an interesting problem in the area of learning and then learn as and when required. This provides immediate feedback and at the same time keeps things interesting.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Customize the path to learning according to your requirements
-Some things are necessary, some are not. While learning from a structured plan, try to figure out the most important things and learn them. Learn a few optional things, keep a few for later. Take different paths, don’t stick rigidly to an external plan.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Internal motivation is important
-External motivation is not effective after a point. Instead, as adults we have to motivate ourselves to learn something. For this, we have to delve deep into why we want to learn it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Plan ahead to structure the sequence of learning
-Instead of just pushing ahead without a plan, first structure what and how we are learning.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Start with a problem and work towards a solution&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;The usual way is starting from the basics (eg. “Hello World” in programming). We eventually reach a point where we can use it for a complicated task. Instead, go the other way round. Try to solve an interesting problem in the area of learning and then learn as and when required. This provides immediate feedback and at the same time keeps things interesting.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Customize the path to learning according to your requirements&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Some things are necessary, some are not. While learning from a structured plan, try to figure out the most important things and learn them. Learn a few optional things, keep a few for later. Take different paths, don’t stick rigidly to an external plan.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Internal motivation is important&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;External motivation is not effective after a point. Instead, as adults we have to motivate ourselves to learn something. For this, we have to delve deep into why we want to learn it.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Plan ahead to structure the sequence of learning&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Instead of just pushing ahead without a plan, first structure what and how we are learning.&lt;/p&gt;
 
 &lt;h3 id=&quot;learning-plan&quot;&gt;Learning Plan&lt;/h3&gt;
 &lt;p&gt;While planning ahead focus on the following:&lt;/p&gt;
