@@ -16,15 +16,19 @@ The book refers to the research of Malcolm Knowles on how adults learn. Children
 
 Knowles suggests the following:
 1. Start with a problem and work towards a solution
+
 The usual way is starting from the basics (eg. "Hello World" in programming). We eventually reach a point where we can use it for a complicated task. Instead, go the other way round. Try to solve an interesting problem in the area of learning and then learn as and when required. This provides immediate feedback and at the same time keeps things interesting.
 
 2. Customize the path to learning according to your requirements
+
 Some things are necessary, some are not. While learning from a structured plan, try to figure out the most important things and learn them. Learn a few optional things, keep a few for later. Take different paths, don't stick rigidly to an external plan.
 
 3. Internal motivation is important
+
 External motivation is not effective after a point. Instead, as adults we have to motivate ourselves to learn something. For this, we have to delve deep into why we want to learn it.
 
 4. Plan ahead to structure the sequence of learning
+
 Instead of just pushing ahead without a plan, first structure what and how we are learning. 
 
 ### Learning Plan
