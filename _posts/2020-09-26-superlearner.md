@@ -104,7 +104,7 @@ While surveying, skim the material to prime the brain for receiving information.
 
 Then question yourself on why we are reading that part. This creates curiosity for reading. Use cognitive biases to trick the brain into interest.
 
-The above two are together referred to as pre-reading. A this time, build a mental map of the material. Form markers and anchor points, get a general picture of the material and how it is structured.
+The above two are together referred to as pre-reading. At this time, build a mental map of the material. Form markers and anchor points, get a general picture of the material and how it is structured.
 
 Then read the section, it can either be speed reading or normal reading. At this time, create vivid visualisations at the anchor points.
 
